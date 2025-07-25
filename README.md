@@ -1,2 +1,2 @@
 # termdo-infra
-Orchestrates Termdo's backend services and web client for unified development and deployment
+Coordinates Termdo services and frontend via Docker Compose for local development
